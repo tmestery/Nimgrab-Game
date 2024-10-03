@@ -1,5 +1,4 @@
 # Tyler Mestery                             9-30-2024
-# Assignment #3
 #
 # This is the classic game of NIM - here called NIMGRAB!
 
